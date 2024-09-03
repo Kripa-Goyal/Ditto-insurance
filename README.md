@@ -3,7 +3,7 @@ Ditto insurance Analysis
 
 An Insurance company, has provided Health Insurance to its customers and now needs help in analyzing whether the policyholders (customers) from the past year will also be interested in Vehicle Insurance provided by the company.
 
-##Steps For Analysis
+## Steps For Analysis
 
 ### Data Preprocessing
 1. Handing Missing Values
@@ -11,7 +11,7 @@ An Insurance company, has provided Health Insurance to its customers and now nee
 3. Handling Imbalanced Data
 4. Adding New Features
 
-###Exploratory Data Analysis
+### Exploratory Data Analysis
 1. Satatistical Summary of Data
 2. Univariate Analysis
 3. Bivariate Analysis
