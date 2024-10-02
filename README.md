@@ -15,3 +15,7 @@ An Insurance company, has provided Health Insurance to its customers and now nee
 1. Satatistical Summary of Data
 2. Univariate Analysis
 3. Bivariate Analysis
+
+### Result
+1.Only 12.5% Customer Responded to the policy.
+2.Customer in their 20s Can be Target.
